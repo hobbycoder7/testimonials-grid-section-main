@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-grid-and-flexbox-testimonials-grid-section-solution-RKRYaHHzNQ](https://www.frontendmentor.io/solutions/css-grid-and-flexbox-testimonials-grid-section-solution-RKRYaHHzNQ)
 - Live Site URL: [https://hobbycoder7.github.io/testimonials-grid-section-main/](https://hobbycoder7.github.io/testimonials-grid-section-main/)
 
 ## My process
